@@ -1,6 +1,8 @@
 //1232. Check if a straight line
 
 // 50/79 testcases passed
+/*
+*/
 
 class Solution {
 public:
