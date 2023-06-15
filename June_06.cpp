@@ -1,6 +1,6 @@
 //1502. Can make arithmetic progression from sequence
 
-//beats 100% of the solutions
+///beats 100% of the solutions
 // time complexity: O(NlogN) + O(n) = O(NlogN)    --> time complexity of sort function + time complexity of for loop
 class Solution {
 public:
